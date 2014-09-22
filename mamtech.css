@@ -6,7 +6,7 @@
   text-transform: uppercase;
 }
 
-.nav{background-color:#f7f7f7;
+.nav{background-color:#BCCEFF;
 }
 
 .nav li {
@@ -37,7 +37,7 @@ border-bottom:1px solid #dbdbdb;
 }
 
 .sitebody{
-    background-color:#efefef;
+    background-color:#BCCEFF;
     border-bottom:1px solid #dbdbdb;
 }
 
