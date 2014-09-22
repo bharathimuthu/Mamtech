@@ -14,7 +14,7 @@
   background-image:url(./images/mamtechheader.png);
   height: 500px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .jumbotron .container {
