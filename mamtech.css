@@ -11,6 +11,7 @@
 
 .nav li {
   display: inline;
+  font-weight:bold;
 }
 
 .thumbnail{
